@@ -1,6 +1,6 @@
 # Codeigniter Installer
 
-<a href="https://github.com/cart53/ci/actions"><img src="https://github.com/cart53/ci/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://github.com/cart53/CodeIgniter-Installer/actions"><img src="https://github.com/cart53/CodeIgniter-Installer/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/cart53/ci"><img src="https://img.shields.io/packagist/dt/cart53/ci" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/cart53/ci"><img src="https://img.shields.io/packagist/v/cart53/ci" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/cart53/ci"><img src="https://img.shields.io/packagist/l/cart53/ci" alt="License"></a>
